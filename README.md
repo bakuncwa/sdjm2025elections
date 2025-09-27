@@ -96,7 +96,7 @@ The project compares **pre-election surveys** with **official election results**
 ## 📊 Dashboard Demo  
 
 <p align="center">
-  <img src="https://github.com/bakuncwa/sdjm2025elections/raw/main/DATAVIS_DashboardPreview.png" alt="Voting Behavior Dashboard Demo" width="800"/>
+  <img src="[https://github.com/bakuncwa/sdjm2025elections/raw/main/DATAVIS_DashboardPreview.png](https://github.com/bakuncwa/sdjm2025elections/blob/main/DATAVIS_Dashboard4_YouthStatistics.png)" alt="Voting Behavior Dashboard Demo" width="800"/>
 </p>
 
 ---
