@@ -50,10 +50,10 @@ The project compares **pre-election surveys** with **official election results**
 
 | Category                   | Tools / Libraries                                      |
 |-----------------------------|-------------------------------------------------------|
-| **Programming Language**    | Python 3.10 (data prep), DAX (Power BI)               |
-| **Data Processing**         | Google Sheets, Microsoft Excel                        |
-| **Visualization**           | Microsoft Power BI, matplotlib                        |
-| **Development Tools**       | Jupyter Notebook, GitHub                              |
+| **Programming Language**    | DAX (Power BI)                                        |
+| **Data Processing**         | Google Sheets,                                        |
+| **Visualization**           | Microsoft Power BI                                    |
+| **Development Tools**       | GitHub                                                |
 
 ---
 
