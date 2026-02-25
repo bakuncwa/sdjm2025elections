@@ -1,4 +1,4 @@
-# 🗳️ 2025 Elections Voting Behavior Analysis of San Jose del Monte, Bulacan  
+# 2025 Elections Voting Behavior Analysis of San Jose del Monte, Bulacan  
 
 **Course:** Data Visualization (BTIS1)
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🧠 Project Description  
+## Project Description  
 
 The **2025 Elections Voting Behavior Analysis of San Jose del Monte (SJDM), Bulacan** is a **data visualization and analytics project** that investigates the role of **demographics and generational turnout** in shaping electoral outcomes.  
 
@@ -27,26 +27,7 @@ The project compares **pre-election surveys** with **official election results**
 
 ---
 
-## 💼 Roles & Responsibilities  
-
-- **Cleaned and processed** election data from **50 barangays**, fixing **120+ inconsistencies** and standardizing entries using **Google Sheets** and **Excel formulas**.  
-  - Computed **measures of central tendency** and **variability**:  
-    - **Gen Z** → Highest variability (**stdev = 12.4**)  
-    - **Boomers** → Most consistent turnout (**stdev = 4.8**, **median = 61%**)  
-
-- **Built an interactive Power BI dashboard** featuring:  
-  - **4 generational filters** (Gen Z, Millennials, Gen X, Boomers)  
-  - Drill-through analysis of **mayoral, vice-mayoral, senatorial, and councilor races**  
-  - Comparative visuals of **dynastic vs. non-dynastic candidate support**  
-
-- **Key findings**:  
-  - **Millennials** averaged **58% support** for **non-dynastic candidates**  
-  - **Boomers and Gen X** showed **65% support** for **incumbents**  
-  - **Gen Z** exhibited **fragmented turnout** with shifting loyalties  
-
----
-
-## ⚙️ Tech Stack  
+## Tech Stack  
 
 | Category                   | Tools / Libraries                                      |
 |-----------------------------|-------------------------------------------------------|
@@ -57,7 +38,7 @@ The project compares **pre-election surveys** with **official election results**
 
 ---
 
-## 📊 Voting Behavior Analysis  
+## Voting Behavior Analysis  
 
 ### 1. **Generational Voting Variability**  
 
@@ -85,15 +66,7 @@ The project compares **pre-election surveys** with **official election results**
 
 ---
 
-## 🎯 Key Takeaways  
-
-- **Generational divides** had more impact than gender differences  
-- **Youth voters (Gen Z + Millennials = 63% of electorate)** are decisive but inconsistent  
-- **Data visualization** revealed clear **district-level differences**, aiding **future campaign strategies**  
-
----
-
-## 📊 Dashboard Demo  
+## Dashboard Demo  
 
 <p align="center">
   <img src="https://github.com/bakuncwa/sdjm2025elections/blob/main/DATAVIS_Dashboard4_YouthStatistics.png?raw=true" 
@@ -102,7 +75,34 @@ The project compares **pre-election surveys** with **official election results**
 
 ---
 
-## 📚 References  
+## Key Takeaways  
+
+- **Generational divides** had more impact than gender differences  
+- **Youth voters (Gen Z + Millennials = 63% of electorate)** are decisive but inconsistent  
+- **Data visualization** revealed clear **district-level differences**, aiding **future campaign strategies**  
+
+---
+
+## Roles & Responsibilities  
+
+- **Cleaned and processed** election data from **50 barangays**, fixing **120+ inconsistencies** and standardizing entries using **Google Sheets** and **Excel formulas**.  
+  - Computed **measures of central tendency** and **variability**:  
+    - **Gen Z** → Highest variability (**stdev = 12.4**)  
+    - **Boomers** → Most consistent turnout (**stdev = 4.8**, **median = 61%**)  
+
+- **Built an interactive Power BI dashboard** featuring:  
+  - **4 generational filters** (Gen Z, Millennials, Gen X, Boomers)  
+  - Drill-through analysis of **mayoral, vice-mayoral, senatorial, and councilor races**  
+  - Comparative visuals of **dynastic vs. non-dynastic candidate support**  
+
+- **Key findings**:  
+  - **Millennials** averaged **58% support** for **non-dynastic candidates**  
+  - **Boomers and Gen X** showed **65% support** for **incumbents**  
+  - **Gen Z** exhibited **fragmented turnout** with shifting loyalties  
+
+---
+
+## References  
 
 - Angat Kabataang San Joseno. (n.d.). Posts [Facebook Page]. Facebook. [https://www.facebook.com/aksanjoseno](https://www.facebook.com/aksanjoseno)  
 - Bulacan mayor, 6 pa kinasuhan. (2016). *Pilipino Star Ngayon*. [https://www.philstar.com/pilipino-star-ngayon/probinsiya/2016/01/31/1548346/bulacan-mayor-6-pa-kinasuhan](https://www.philstar.com/pilipino-star-ngayon/probinsiya/2016/01/31/1548346/bulacan-mayor-6-pa-kinasuhan)  
